@@ -1,2 +1,3 @@
-# sayisalGoruntuIslemeFinal
-Sayısal Görüntü İşleme Ödevi
+# Bozuk Paraların Video İşleme ile Hesaplanması
+
+
